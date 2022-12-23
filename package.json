@@ -1,0 +1,18 @@
+{
+  "name": "flash-bright",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "jsonfile-updater": "^3.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.15.1"
+  },
+  "version": "1.0.0",
+  "main": "graph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
